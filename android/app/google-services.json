@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460675135705",
+    "project_id": "jobgodsusers-1e8f5",
+    "storage_bucket": "jobgodsusers-1e8f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460675135705:android:9f58a33a153174546866c8",
+        "android_client_info": {
+          "package_name": "com.example.jobgods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2ipAcK2VK8XDzWC36-t-m4BSakqPSPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
